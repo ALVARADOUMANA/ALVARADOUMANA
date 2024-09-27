@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Desarrollando un Sistema de Seguimiento y Control de Flotillas Vehiculares utilizando Laravel, React y PostgreSQL.<br><br>👯 Proyectos open-source relacionados con gestión de datos y desarrollo web full-stack.<br><br>🤝Optimización de consultas en PostgreSQL y mejores prácticas de React para manejar grandes conjuntos de datos.<br><br>🌱 Mejorando mis habilidades en Power BI para visualización de datos y Docker para la gestión de contenedores.<br><br>💬 Desarrollo con Laravel y cómo integrar frontends modernos como React con backend en PHP.<br><br>⚡¡Aparte de programar, me encanta aprender sobre liderazgo y la gestión de equipos exitosos!<br><br>
+🔭 Desarrollando un Sistema, .NET, React y PostgreSQL.<br><br>👯 Proyectos open-source relacionados con gestión de datos y desarrollo web full-stack.<br><br>🤝Optimización de consultas en PostgreSQL y mejores prácticas de React para manejar grandes conjuntos de datos.<br><br>🌱 Mejorando mis habilidades en Power BI para visualización de datos y Docker para la gestión de contenedores.<br><br>💬 Desarrollo con Laravel y cómo integrar frontends modernos como React con backend en PHP.<br><br>⚡¡Aparte de programar, me encanta aprender sobre liderazgo y la gestión de equipos exitosos!<br><br>
 
 
 ## 🌐 Socials:
