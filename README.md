@@ -1,5 +1,6 @@
 # Pablo Alvarado Umaña | Full Stack Developer
 
+[![Telegram](https://img.shields.io/badge/Telegram-@alvarado_pablo07-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/alvarado_pablo07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Alvarado_Umaña-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pabloalvaradoumana/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-alvaradoumana.xyz-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://alvaradoumana.xyz)
 [![Instagram](https://img.shields.io/badge/Instagram-@alvarado_pablo07-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/alvarado_pablo07)
